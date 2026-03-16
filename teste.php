@@ -2,4 +2,8 @@
 
     echo "Vai Corinthians!";
 
+    echo "TESTE 1";
+
+     echo "TESTE 2";
+
 ?>
