@@ -6,4 +6,6 @@
 
     echo "TESTE 2";
 
+     echo "ALL";
+
 ?>
