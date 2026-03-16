@@ -4,6 +4,6 @@
 
     echo "TESTE 1";
 
-     echo "TESTE 2";
+    echo "TESTE 2";
 
 ?>
