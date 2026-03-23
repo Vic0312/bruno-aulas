@@ -13,7 +13,9 @@
     }
 
     function div($num1, $num2){
+        if($num2 != 0 )
         return($num1 / $num2);
+        else return "EROO: Não pode dividir por zero!";
     }
 
     echo "ALL";
